@@ -1,0 +1,18 @@
+/* a light red/pink background, and a list of fonts containing 
+`Verdana` and `DejaVu Sans` with `sans-serif` as a fallback */
+.odd {
+    background-color: rgb(255, 0, 106);
+    font-family:'Verdana', 'DejaVu Sans', sans-serif;
+}
+#two {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+.odd.three {
+    font-size: 24px;
+}
+#four {
+    background-color: rgb(96, 255, 117);
+    font-size: 24px;
+    font-weight: bold;
+}
